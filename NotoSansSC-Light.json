@@ -30,6 +30,20 @@
             "x": 0,
             "y": 43,
             "page": 0
+        },
+        {
+            "id": 63,
+            "index": 32,
+            "char": "?",
+            "width": 19,
+            "height": 36,
+            "xoffset": 0,
+            "yoffset": 7,
+            "xadvance": 19,
+            "chnl": 15,
+            "x": 44,
+            "y": 0,
+            "page": 0
         }
     ],
     "info": {
@@ -39,7 +53,8 @@
         "italic": 0,
         "charset": [
             "中",
-            "文"
+            "文",
+            "?"
         ],
         "unicode": 1,
         "stretchH": 100,
@@ -60,7 +75,7 @@
     "common": {
         "lineHeight": 42,
         "base": 39,
-        "scaleW": 43,
+        "scaleW": 63,
         "scaleH": 85,
         "pages": 1,
         "packed": 0,
