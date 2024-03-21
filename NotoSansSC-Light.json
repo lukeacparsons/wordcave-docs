@@ -1,0 +1,77 @@
+{
+    "pages": [
+        "NotoSansSC-Light.png"
+    ],
+    "chars": [
+        {
+            "id": 25991,
+            "index": 14687,
+            "char": "文",
+            "width": 43,
+            "height": 42,
+            "xoffset": 0,
+            "yoffset": 4,
+            "xadvance": 42,
+            "chnl": 15,
+            "x": 0,
+            "y": 0,
+            "page": 0
+        },
+        {
+            "id": 20013,
+            "index": 8742,
+            "char": "中",
+            "width": 37,
+            "height": 42,
+            "xoffset": 2,
+            "yoffset": 4,
+            "xadvance": 42,
+            "chnl": 15,
+            "x": 0,
+            "y": 43,
+            "page": 0
+        }
+    ],
+    "info": {
+        "face": "NotoSansSC-Light",
+        "size": 42,
+        "bold": 0,
+        "italic": 0,
+        "charset": [
+            "中",
+            "文"
+        ],
+        "unicode": 1,
+        "stretchH": 100,
+        "smooth": 1,
+        "aa": 1,
+        "padding": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "spacing": [
+            0,
+            0
+        ],
+        "outline": 0
+    },
+    "common": {
+        "lineHeight": 42,
+        "base": 39,
+        "scaleW": 43,
+        "scaleH": 85,
+        "pages": 1,
+        "packed": 0,
+        "alphaChnl": 0,
+        "redChnl": 0,
+        "greenChnl": 0,
+        "blueChnl": 0
+    },
+    "distanceField": {
+        "fieldType": "msdf",
+        "distanceRange": 4
+    },
+    "kernings": []
+}
