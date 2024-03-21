@@ -44,6 +44,20 @@
             "x": 0,
             "y": 43,
             "page": 0
+        },
+        {
+            "id": 63,
+            "index": 32,
+            "char": "?",
+            "width": 19,
+            "height": 36,
+            "xoffset": 0,
+            "yoffset": 7,
+            "xadvance": 19,
+            "chnl": 15,
+            "x": 39,
+            "y": 41,
+            "page": 0
         }
     ],
     "info": {
@@ -54,7 +68,8 @@
         "charset": [
             "한",
             "국",
-            "어"
+            "어",
+            "?"
         ],
         "unicode": 1,
         "stretchH": 100,
